@@ -117,7 +117,7 @@ export default function Home() {
       className="min-h-screen bg-cover bg-no-repeat flex flex-col justify-center overflow-hidden items-center"
     >
       <h1 className="text-4xl font-bold mb-8 text-pink-400 text-center">
-        Do You want be my valentine, Dudung?
+      Do U Want to Be My Valentine, Dudung?
       </h1>
       <div className="flex md:flex-row flex-col space-x-4 gap-5">
         <motion.button
